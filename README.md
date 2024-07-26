@@ -10,7 +10,7 @@
 ![Dolanss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dolanss&show_icons=true&theme=radical)
 
 - 🌱 I’m currently learning R and Python
-- ⚡ Fun fact: 54.4 percent of Icelanders said they believed in the existence of elves
+- ⚡ Fun fact: The odds of being struck by lightning in a given year are about 1 in 1,222,000, whereas the odds of winning a major lottery jackpot, are approximately 1 in 292 million. So, while winning the lottery can be a fun dream, it's definitely a long shot!
 - 🖤 A Tryhard Souls-Like Player
 
 ### Technologies I use daily
