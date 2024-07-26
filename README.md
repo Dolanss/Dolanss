@@ -1,5 +1,5 @@
-### Hi there👋, my name's Gabriel Felipe, i'm 18 years old. 
-    I really like back-end programming and I'm currently doing software engineering 🤓
+### Hi there👋, my name's Gabriel Felipe, i'm 19 years old. 
+    I study Economics and have a strong passion for statistics, predictive models, and linear regression analysis.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrielf.fso)
 <a href="https://www.linkedin.com/in/gabriel-felipe-silva-de-oliveira-785109225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://steamcommunity.com/id/dolbery/" target="_blank">
@@ -9,19 +9,19 @@
 
 ![Dolanss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dolanss&show_icons=true&theme=radical)
 
-- 🌱 I’m currently learning Java and Typescript
+- 🌱 I’m currently learning R and Python
 - ⚡ Fun fact: 54.4 percent of Icelanders said they believed in the existence of elves
 - 🖤 A Tryhard Souls-Like Player
 
 ### Technologies I use daily
 
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img align="center" alt="ts" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="Ruby" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div><br/>
 
 ![dark-souls](https://user-images.githubusercontent.com/107888818/217057071-17ab712e-94df-4ea6-9d99-6dce5d33e4ca.gif)
