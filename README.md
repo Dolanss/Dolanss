@@ -5,13 +5,6 @@
  <a href="https://steamcommunity.com/id/dolbery/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
   
-</div>
-
-![Dolanss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dolanss&show_icons=true&theme=radical)
-
-- 🌱 I’m currently learning R and Python
-- ⚡ Fun fact: The odds of being struck by lightning in a given year are about 1 in 1,222,000, whereas the odds of winning a major lottery jackpot, are approximately 1 in 292 million. So, while winning the lottery can be a fun dream, it's definitely a long shot!
-- 🖤 A Tryhard Souls-Like Player
 
 ### Technologies I use daily
 
