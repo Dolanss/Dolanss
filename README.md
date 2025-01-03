@@ -1,4 +1,4 @@
-### Hi there👋, my name's Gabriel Felipe, i'm 19 years old. 
+### Hi there👋, my name's Gabriel Felipe, i'm 20 years old. 
     I study Economics and have a strong passion for statistics, predictive models and linear regression analysis.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrielf.fso)
 <a href="https://www.linkedin.com/in/gabriel-felipe-silva-de-oliveira-785109225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
