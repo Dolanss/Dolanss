@@ -13,7 +13,6 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img align="center" alt="react" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png" />
 </div><br/>
 
 ![dark-souls](https://user-images.githubusercontent.com/107888818/217057071-17ab712e-94df-4ea6-9d99-6dce5d33e4ca.gif)
