@@ -1,5 +1,47 @@
-### Hi there👋, my name's Gabriel Felipe, i'm 20 years old. 
-    I study Economics and have a strong passion for statistics, predictive models and linear regression analysis.
+<h1 align="center">Hi there 👋, I'm Gabriel Felipe</h1>
+
+<p align="center">
+  <b>Economics Student • Full Stack Developer • Data Enthusiast</b>
+</p>
+
+---
+
+### 🎓 About me
+- I'm 20 years old  
+- Studying **Economics** and **Systems Analysis & Development**  
+- Working as a **Full Stack Developer** with experience in **FP&A**  
+
+---
+
+### 📊 Interests
+- Statistics & Econometrics  
+- Predictive modeling  
+- Backend Development
+- Data-driven decision making  
+- Financial analysis (KPIs, NPS, EBITDA)  
+
+---
+
+### ⚙️ Tech Stack
+
+**Backend**
+- Java • Spring Boot  
+
+**Frontend**
+- React • Javascript 
+
+**Data & Tools**
+- SQL • Data Modeling • APIs Integration  
+
+---
+
+### 🧠 Mindset
+> I like to bridge the gap between business and technology — turning complex data into actionable insights.
+
+---
+
+### 📫 Connect with me
+<p>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrielf.fso)
 <a href="https://www.linkedin.com/in/gabriel-felipe-silva-de-oliveira-785109225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
@@ -17,3 +59,4 @@
   <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
   <img align="center" alt="kub" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" />
 </div><br/>
+    </p>
