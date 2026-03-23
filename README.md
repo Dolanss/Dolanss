@@ -7,7 +7,7 @@
 ---
 
 ### 🎓 About me
-- I'm 20 years old  
+- I'm 21 years old  
 - Studying **Economics** and **Systems Analysis & Development**  
 - Working as a **Full Stack Developer** with experience in **FP&A**  
 
