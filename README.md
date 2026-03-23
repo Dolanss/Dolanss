@@ -37,7 +37,6 @@
 
 ### Connect with me
 <p>
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrielf.fso)
 <a href="https://www.linkedin.com/in/gabriel-felipe-silva-de-oliveira-785109225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 
