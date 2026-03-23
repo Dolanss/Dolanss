@@ -6,14 +6,14 @@
 
 ---
 
-### 🎓 About me
+### About me
 - I'm 21 years old  
 - Studying **Economics** and **Systems Analysis & Development**  
 - Working as a **Full Stack Developer** with experience in **FP&A**  
 
 ---
 
-### 📊 Interests
+### Interests
 - Statistics & Econometrics  
 - Predictive modeling  
 - Backend Development
@@ -22,7 +22,7 @@
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 
 **Backend**
 - Java • Spring Boot  
@@ -35,12 +35,7 @@
 
 ---
 
-### 🧠 Mindset
-> I like to bridge the gap between business and technology — turning complex data into actionable insights.
-
----
-
-### 📫 Connect with me
+### Connect with me
 <p>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrielf.fso)
 <a href="https://www.linkedin.com/in/gabriel-felipe-silva-de-oliveira-785109225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
