@@ -47,7 +47,6 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
   <img align="center" alt="gcp" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white" />
   <img align="center" alt="sap" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff" />
-  <img align="center" alt="r" src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" />
   <img align="center" alt="psq" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
   <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
   <img align="center" alt="kub" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" />
