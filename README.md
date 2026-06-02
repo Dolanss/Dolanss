@@ -6,6 +6,7 @@
 
 <p align="center">
 Building scalable financial platforms, fiscal automation systems and backend architectures focused on performance, security and business impact.
+Open Source Contributor - Contributions to Resilience4j and Apache Camel ecosystem
 </p>
 
 ---
