@@ -34,7 +34,7 @@ Open Source Contributor - Contributions to Resilience4j and Apache Camel ecosyst
 ### Core Stack
 
 **Backend**  
-- Java • Spring Boot • Spring Security • JPA/Hibernate • REST APIs • JWT • TypeScript / Node.js
+- Java • Spring Boot • Spring Security • JPA/Hibernate • REST APIs • JWT 
 
 **Frontend**  
 - React • Vue.js
