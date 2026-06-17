@@ -14,7 +14,7 @@ Open Source Contributor - Contributions to Resilience4j and Apache Camel ecosyst
 ### About Me
 
 - Strong experience with **Java**, **Spring Boot**, **GCP** and scalable backend architectures
-- Background in **Economics** and **Systems Analysis & Development**, connecting business strategy with technical execution
+- Background in **Economics** and **Software Engineering**, connecting business strategy with technical execution
 - Experience with **ROI-driven engineering**, cost optimization and high-reliability systems
 
 ---
